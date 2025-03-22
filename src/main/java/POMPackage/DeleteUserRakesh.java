@@ -1,10 +1,10 @@
 package POMPackage;
 
-public class LoginClass2 {
+public class DeleteUsersanjay {
 
 	public static void main(String[] args) {
-		System.out.println("sanjaysangle");
-		
+		// TODO Auto-generated method stub
+
 	}
 
 }
