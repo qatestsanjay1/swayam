@@ -6,6 +6,10 @@ public class DeleteUserRakesh {
 		System.out.println("changeAshwini1");
 		System.out.println("changeAshwini2");
 		System.out.println("changeAshwini3");
+		System.out.println("changeswamin1");
+		System.out.println("changeswamini2");
+
+
 
 	}
 
